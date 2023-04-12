@@ -15,7 +15,7 @@ Este repositório contém um exemplo de implementação de microsserviços utili
 
 1. Clone o repositório:
 ```
-git clone https://github.com/yourusername/first-kafka-project.git
+git clone git@github.com:thadeucbr/first-kafka-project.git
 cd first-kafka-project
 ```
 2. Construa e inicie todos os serviços (Kafka, Zookeeper e microsserviços) usando Docker Compose:
